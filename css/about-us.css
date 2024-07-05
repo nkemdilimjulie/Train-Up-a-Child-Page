@@ -1,0 +1,80 @@
+
+
+h1 { 
+    color: #420649;
+    background-color: #d58ddd;
+    text-align: center;
+}
+
+.paragraph-one {
+    color: white;
+    background-color: #7d3030;
+    font-size: x-large;
+    width: 50%;
+    margin-left: 25%;
+}
+
+
+h2 {
+    color: #7d3030;
+    font-size: large;
+    margin-top: 80px;
+}
+
+h3 {
+    color: white;
+    background-color: #7d3030;
+    padding: 50px;
+    margin: 100px;
+    border: 15px inset green;
+    font-size: x-large;
+    text-align: center;
+
+}
+
+a {
+    padding: 10px;
+}
+
+h1:hover {
+    color: #420649;
+    background-color: aquamarine;
+
+}
+
+h2:hover {
+    color: #420649;
+    background-color: aquamarine;
+
+}
+
+.paragraph-one:hover {
+    color: #420649;
+    background-color: aquamarine;
+
+}
+
+.paragraph-two:hover {
+    color: #420649;
+    background-color: aquamarine;
+}
+
+a:hover {
+    color: #420649;
+    background-color: aquamarine;
+}
+
+h2:hover {
+    color: #420649;
+    background-color: aquamarine;
+}
+
+h3:hover {
+    color: #420649;
+    background-color: aquamarine;
+}
+
+p:hover {
+    color: #420649;
+    background-color: aquamarine;
+}
