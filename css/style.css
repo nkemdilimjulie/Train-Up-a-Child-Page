@@ -1,5 +1,20 @@
 
 
+.home {
+    font-size: large;
+    background: rgb(62, 182, 62);
+    background-color: #66ca87;
+    color: #1d6836;
+    margin-left: 2px;
+    margin-right: 95%;
+    transition: 2s;
+    width: 400px;
+}
+
+.home:hover {
+    width: 800px;
+
+}
 
 h1 {
     color: #420649;
