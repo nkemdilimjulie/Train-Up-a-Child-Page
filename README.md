@@ -32,25 +32,27 @@ The website contains two pages:
 
  Each file has its own separate file for styling:
 
- ```index.css``` and a```bout-us.css``` files <br>
+ ```style.css``` and a```about-us.css``` files <br>
  which are contained in the CSS Folder
  ----
 The ```Home page``` is the main page of the website.<br>
 ```About Us``` page speaks about what the organization handles.<br>
 With the "Go to top of page", one can go to the top of the current page
 
-
+----
 #### The Code Flow
 
+The two files are linked to each other.<br>
+This means you can jump from one file to another file from any page.
 
-are two CSS code - one for the HOME PAGE
-
-Create two pages:
----
->Home page and an About us page 
-
-
-
- Add a menu on both pages that lets the user jump from one to the other. Make the menu stand out.
+Using the <nav></nav> element,the ```Home page``` and ```About us ``` menu are created.
 
 ----
+
+Project Introduction:
+
+The Project Introduction text is declared inside an introductory image
+
+More insights about the organisation's motive are elaborated
+
+A video of children who are sponsored by donors dancing in their school
