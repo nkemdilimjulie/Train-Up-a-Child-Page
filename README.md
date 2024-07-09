@@ -1,6 +1,40 @@
 # Train Up a Child Charity Organization
 
+##  A Short Description of the Project
 
+As the name already indicates, this is a charity organisation that seeks <br>
+for donors who shall support the education of the less-priviledged children. 
+
+A Call for Help:
+
+>Children in Africa needs an SOS to their educational System<br>
+
+
+Everyone is asked to:
+
+Train up a child in the way he should go: and when he is old, he will not depart from it.   ***Proverbs 22 verse 6***
+
+---
+### Code Introduction
+---
+The parent Folder for my Project 
+The website contains two pages:
+
+> HOME PAGE and ABOUT US page
+ 
+ and such the code is divided into two files: 
+
+ ```index.html``` and ```about-us.html``` files
+
+ Each file has its own separate file for styling:
+
+ index.css and about-us.css files which are contained in the CSS Folder
+
+
+
+
+<b> The CSS code <b><br>
+There are two CSS code - one for the HOME PAGE
 
 Create two pages:
 ---
