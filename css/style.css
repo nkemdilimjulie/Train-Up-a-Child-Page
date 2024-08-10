@@ -1,6 +1,6 @@
 
 
-.home {
+nav {
     font-size: large;
     background: rgb(62, 182, 62);
     background-color: #66ca87;
@@ -8,11 +8,12 @@
     margin-left: 2px;
     margin-right: 95%;
     transition: 2s;
-    width: 400px;
+    width: 200px;
+   
 }
 
-.home:hover {
-    width: 800px;
+nav:hover {
+    width: 200px;
 
 }
 
@@ -24,6 +25,29 @@ h1 {
 
 }
     
+figure {
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
+}
+
+
+img {
+    max-width: 220px;
+    max-height: 150px;
+}
+
+
+figcaption {
+   display: flex; 
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+  max-width: 150px;
+}
+
 .welcome-paragraph {
 
     color: #260985;
